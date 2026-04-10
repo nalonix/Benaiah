@@ -14,6 +14,9 @@ importers:
       '@sveltejs/adapter-vercel':
         specifier: ^5.10.2
         version: 5.10.2(@sveltejs/kit@2.39.1(@sveltejs/vite-plugin-svelte@4.0.4(svelte@5.38.10)(vite@5.4.20))(svelte@5.38.10)(vite@5.4.20))(rollup@4.50.1)
+      bbbb:
+        specifier: 'link:'
+        version: 'link:'
       plyr:
         specifier: ^3.7.8
         version: 3.8.3
