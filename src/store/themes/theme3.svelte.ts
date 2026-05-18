@@ -48,7 +48,7 @@ export const theme3 = $state({
 			story_am: [
 				'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052736/16_fw7pck.png',
 				'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052700/17_nvwuay.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052707/18_gmzsjt.png'
+				'https://res.cloudinary.com/doh7zyphl/image/upload/v1779141305/18_xxw2h3.png'
 			],
 			artists: [team.EyuelMelese, team.BereketFikru]
 		}
