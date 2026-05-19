@@ -10,7 +10,8 @@
 		"sourceMap": true,
 		"strict": true,
 		"moduleResolution": "bundler",
-		// "types": ["vidstack/svelte"],
+		"ignoreDeprecations": "6.0",
+		"types": ["node"],
 		"baseUrl": ".",
 		"paths": {
 			"@/*": ["src/*"]
