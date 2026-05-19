@@ -383,7 +383,7 @@ export const theme2 = $state({
 		},
 		{
 			title_en: 'Jehovah Maoz',
-			title_am: 'ጄሆቫ አምባዬ',
+			title_am: 'ጄሆቫ ማኦዝ',
 			description_en: 'A collection of beautiful and heart warming graphics',
 			description_am: 'A collection of beautiful and heart warming graphics',
 			devotional: {
