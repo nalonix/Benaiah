@@ -11,15 +11,15 @@ export const theme3 = $state({
 			description_en: 'A collection of beautiful and heart warming graphics',
 			description_am: 'A collection of beautiful and heart warming graphics',
 			devotional: {
-				devotional_en: './articles/themes/Love, Faith and Hope/Love/devotional_en',
+				devotional_en: './articles/themes/Armor of God/Belt of Truth/devotional_en',
 				devotional_author_en: [team.EdenTesfaye],
-				devotional_am: './articles/themes/Love, Faith and Hope/Love/devotional_am',
+				devotional_am: './articles/themes/Armor of God/Belt of Truth/devotional_am',
 				devotional_author_am: [team.KibruAbebe]
 			},
 			study_material: {
-				study_material_en: './articles/themes/Love, Faith and Hope/Love/study_material_en',
+				study_material_en: './articles/themes/Armor of God/Belt of Truth/study_material_en',
 				study_material_author_en: [team.EdenTesfaye],
-				study_material_am: './articles/themes/Love, Faith and Hope/Love/study_material_am',
+				study_material_am: './articles/themes/Armor of God/Belt of Truth/study_material_am',
 				study_material_author_am: [team.KibruAbebe]
 			},
 			cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052535/6_cubwmd.jpg',
@@ -56,15 +56,15 @@ export const theme3 = $state({
 		//     title_en: 'Breastplate of Righteousness',
 		//     title_am: 'የጽድቅን ጥሩር',
 		//     devotional: {
-		//         devotional_en: './articles/themes/Love, Faith and Hope/Love/devotional_en',
+		//         devotional_en: './articles/themes/Armor of God/Love/devotional_en',
 		//         devotional_author_en: [team.AkinahomGetahun],
-		//         devotional_am: './articles/themes/Love, Faith and Hope/Love/devotional_am',
+		//         devotional_am: './articles/themes/Armor of God/Love/devotional_am',
 		//         devotional_author_am: [team.RebiraTibebu]
 		//     },
 		//     study_material: {
-		//         study_material_en: './articles/themes/Love, Faith and Hope/Love/study_material_en',
+		//         study_material_en: './articles/themes/Armor of God/Love/study_material_en',
 		//         study_material_author_en: [team.BethelemMelese],
-		//         study_material_am: './articles/themes/Love, Faith and Hope/Love/study_material_am',
+		//         study_material_am: './articles/themes/Armor of God/Love/study_material_am',
 		//         study_material_author_am: [team.AkinahomGetahun]
 		//     },
 		//     cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1745798661/1_zadgvw.png',
@@ -103,15 +103,15 @@ export const theme3 = $state({
 		//     description_en: 'A collection of beautiful and heart warming graphics',
 		//     description_am: 'A collection of beautiful and heart warming graphics',
 		//     devotional: {
-		//         devotional_en: './articles/themes/Love, Faith and Hope/Love/devotional_en',
+		//         devotional_en: './articles/themes/Armor of God/Love/devotional_en',
 		//         devotional_author_en: [team.AkinahomGetahun],
-		//         devotional_am: './articles/themes/Love, Faith and Hope/Love/devotional_am',
+		//         devotional_am: './articles/themes/Armor of God/Love/devotional_am',
 		//         devotional_author_am: [team.RebiraTibebu]
 		//     },
 		//     study_material: {
-		//         study_material_en: './articles/themes/Love, Faith and Hope/Love/study_material_en',
+		//         study_material_en: './articles/themes/Armor of God/Love/study_material_en',
 		//         study_material_author_en: [team.BethelemMelese],
-		//         study_material_am: './articles/themes/Love, Faith and Hope/Love/study_material_am',
+		//         study_material_am: './articles/themes/Armor of God/Love/study_material_am',
 		//         study_material_author_am: [team.AkinahomGetahun]
 		//     },
 		//     cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/2_enaiyr.png',
@@ -148,15 +148,15 @@ export const theme3 = $state({
 		//     title_en: 'Helmet of Salvation',
 		//     title_am: 'የመዳን ራስ ቍር',
 		//     devotional: {
-		//         devotional_en: './articles/themes/Love, Faith and Hope/Love/devotional_en',
+		//         devotional_en: './articles/themes/Armor of God/Love/devotional_en',
 		//         devotional_author_en: [team.AkinahomGetahun],
-		//         devotional_am: './articles/themes/Love, Faith and Hope/Love/devotional_am',
+		//         devotional_am: './articles/themes/Armor of God/Love/devotional_am',
 		//         devotional_author_am: [team.RebiraTibebu]
 		//     },
 		//     study_material: {
-		//         study_material_en: './articles/themes/Love, Faith and Hope/Love/study_material_en',
+		//         study_material_en: './articles/themes/Armor of God/Love/study_material_en',
 		//         study_material_author_en: [team.BethelemMelese],
-		//         study_material_am: './articles/themes/Love, Faith and Hope/Love/study_material_am',
+		//         study_material_am: './articles/themes/Armor of God/Love/study_material_am',
 		//         study_material_author_am: [team.AkinahomGetahun]
 		//     },
 		//     cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1745798661/1_zadgvw.png',
@@ -195,15 +195,15 @@ export const theme3 = $state({
 		//     description_en: 'A collection of beautiful and heart warming graphics',
 		//     description_am: 'A collection of beautiful and heart warming graphics',
 		//     devotional: {
-		//         devotional_en: './articles/themes/Love, Faith and Hope/Love/devotional_en',
+		//         devotional_en: './articles/themes/Armor of God/Love/devotional_en',
 		//         devotional_author_en: [team.AkinahomGetahun],
-		//         devotional_am: './articles/themes/Love, Faith and Hope/Love/devotional_am',
+		//         devotional_am: './articles/themes/Armor of God/Love/devotional_am',
 		//         devotional_author_am: [team.RebiraTibebu]
 		//     },
 		//     study_material: {
-		//         study_material_en: './articles/themes/Love, Faith and Hope/Love/study_material_en',
+		//         study_material_en: './articles/themes/Armor of God/Love/study_material_en',
 		//         study_material_author_en: [team.BethelemMelese],
-		//         study_material_am: './articles/themes/Love, Faith and Hope/Love/study_material_am',
+		//         study_material_am: './articles/themes/Armor of God/Love/study_material_am',
 		//         study_material_author_am: [team.AkinahomGetahun]
 		//     },
 		//     cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/2_enaiyr.png',
