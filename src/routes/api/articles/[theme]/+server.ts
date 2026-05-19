@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import { getThemeBySlug } from '../../../../lib/articleUtils';
+import { getThemeBySlug } from '$lib/articleUtils';
 import type { RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = ({ params }) => {

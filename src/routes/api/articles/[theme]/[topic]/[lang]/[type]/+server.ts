@@ -1,5 +1,5 @@
 import { text } from '@sveltejs/kit';
-import { getMarkdownContent } from '../../../../../../lib/articleUtils';
+import { getMarkdownContent } from '$lib/articleUtils';
 import type { RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = ({ params }) => {
