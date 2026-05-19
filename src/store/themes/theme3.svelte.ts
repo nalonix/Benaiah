@@ -24,35 +24,35 @@ export const theme3 = $state({
 					'./articles/themes/The Full Armor of God/Belt of Truth/study_material_am',
 				study_material_author_am: [team.KibruAbebe]
 			},
-			cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/3_jl5qfb.png',
-			cover_am: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1745801065/10_pktqym.png',
-			square_en: [
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484898/1_nrxe0z.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/2_accgok.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/3_jl5qfb.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/4_uqvv8h.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/5_erhgme.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/6_b3xzfd.png'
-			],
-			square_am: [
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/7_hzabr5.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/8_kf8czj.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1745801052/9_anj7h9.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1745801065/10_pktqym.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1745801015/11_qr7czq.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/12_npfsmi.png'
-			],
-			story_en: [
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/13_p1ckg7.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/14_xhbxfv.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/15_zorqcz.png'
-			],
-			story_am: [
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/16_mcppp5.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/17_v5gyxv.png',
-				'https://res.cloudinary.com/doh7zyphl/image/upload/v1741484789/18_dwd5hi.png'
-			],
-			artists: [team.AkinahomGetahun, team.RebiraTibebu, team.BethelemMelese]
+			cover_en: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052535/6_cubwmd.jpg',
+						cover_am: 'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052661/10_eamo6n.png',
+						square_en: [
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052510/1_q0uywz.jpg',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052566/2_ntutlg.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052549/3_nja9l0.jpg',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052611/4_wg3gie.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052569/5_eqminh.jpg',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052535/6_cubwmd.jpg'
+						],
+						square_am: [
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052581/7_qu3ubn.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052615/8_lvtbzj.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052590/9_duhbgm.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052661/10_eamo6n.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052660/11_vbzhip.jpg',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052644/12_t34sx4.png'
+						],
+						story_en: [
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052727/13_iresoi.jpg',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052625/14_tfpcnz.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052665/15_j8bhvt.png'
+						],
+						story_am: [
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052736/16_fw7pck.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052700/17_nvwuay.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052707/18_gmzsjt.png'
+						],
+						artists: [team.EyuelMelese, team.BereketFikru]
 		},
 		{
 			title_en: 'Helmet of Salvation',
