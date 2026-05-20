@@ -35,12 +35,12 @@ export const theme3 = $state({
 							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052535/6_cubwmd.jpg'
 						],
 						square_am: [
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052581/7_qu3ubn.png',
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052615/8_lvtbzj.png',
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052590/9_duhbgm.png',
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052661/10_eamo6n.png',
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052660/11_vbzhip.jpg',
-							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052644/12_t34sx4.png'
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295050/7_trzwsx.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295117/8_zhdwsg.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295001/9_rhbyva.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295121/10_nimqr4.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295609/11_zxqvq7.png',
+							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779295060/12_qsvq5w.png'
 						],
 						story_en: [
 							'https://res.cloudinary.com/doh7zyphl/image/upload/v1779052727/13_iresoi.jpg',
