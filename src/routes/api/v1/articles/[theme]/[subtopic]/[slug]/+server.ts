@@ -1,5 +1,6 @@
 import { json } from '@sveltejs/kit';
-import { getMarkdownContent } from '$lib/articleUtils';
+import { getMarkdownContent, slugify } from '$lib/articleUtils';
+import { themeList } from '../../../../../../../store/theme_list.svelte.js';
 import type { RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = async ({ params, setHeaders }) => {
@@ -120,6 +121,31 @@ export const GET: RequestHandler = async ({ params, setHeaders }) => {
 		'Cache-Control': 'public, max-age=3600'
 	});
 	
+	// Get graphics data for this subtopic
+	const theme = themeList.themes.find((t) => slugify(t.theme_en) === themeSlug);
+	let graphics = null;
+	if (theme) {
+		const subtopic = theme.subtopics.find((s) => slugify(s.title_en) === topicSlug);
+		if (subtopic) {
+			graphics = {
+				covers: {
+					en: subtopic.cover_en,
+					am: subtopic.cover_am
+				},
+				images: {
+					square: {
+						en: subtopic.square_en,
+						am: subtopic.square_am
+					},
+					story: {
+						en: subtopic.story_en,
+						am: subtopic.story_am
+					}
+				}
+			};
+		}
+	}
+	
 	// Return structured JSON response
 	return json({
 		theme: themeSlug,
@@ -130,6 +156,7 @@ export const GET: RequestHandler = async ({ params, setHeaders }) => {
 		date,
 		audio,
 		header,
+		graphics,
 		content
 	});
 };
